@@ -1,7 +1,7 @@
 CTDialog
 ========
 
-![screenshot](./screenshot)
+![screenshot](./screenshot.png)
 一个简易的实现自定义窗口标题栏的Qt 程序
 
 
